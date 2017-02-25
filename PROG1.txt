@@ -8,3 +8,14 @@ Abrigo - http://dle.rae.es/?id=0B7pouj
 Enchufe - http://dle.rae.es/?id=F5ob3O7
 Juego - http://dle.rae.es/?id=MaS6XPk
 Dinero - http://dle.rae.es/?id=Doas5g0
+bit->http://dle.rae.es/?id=5cPrUzM
+casa->http://dle.rae.es/?id=7lsKMtR
+programar->http://dle.rae.es/?id=UJWsNlv
+internet->http://dle.rae.es/?id=LvskgUG
+saltar->http://dle.rae.es/?id=X6IXCPw
+vaca->http://dle.rae.es/?id=bDxdsCL
+panda->http://dle.rae.es/?id=ReX7NKC|ReXGWIc
+informatico\a->http://dle.rae.es/?id=LY8zQy3
+bombilla->http://dle.rae.es/?id=5pimsJw
+puerta->http://dle.rae.es/?id=Uafmj9V
+
