@@ -19,3 +19,15 @@ informatico\a->http://dle.rae.es/?id=LY8zQy3
 bombilla->http://dle.rae.es/?id=5pimsJw
 puerta->http://dle.rae.es/?id=Uafmj9V
 
+
+1. camión - http://dle.rae.es/?id=6y1pUlj
+2. barco - http://dle.rae.es/?id=54Gx7OV
+3. casa - http://dle.rae.es/?id=7lsKMtR
+4. oso - http://dle.rae.es/?id=RIMX9x1
+5. divagar - http://dle.rae.es/?id=E0Vu0uB
+6. estorbar - http://dle.rae.es/?id=GvYmCCw
+7. árbol - http://dle.rae.es/?id=3QPp95d
+8. teja - http://dle.rae.es/?id=ZKEyCi1|ZKFKd1I
+9. estanque - http://dle.rae.es/?id=GmCp0Iz 
+10. herrero - http://dle.rae.es/?id=KFRHpa0
+
